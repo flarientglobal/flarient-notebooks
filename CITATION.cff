@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these notebooks in your research, please cite Flarient."
+title: "Flarient Research Notebooks"
+abstract: "Reproducible Jupyter notebooks for space weather research using Flarient data and public NOAA/NASA APIs."
+authors:
+  - family-names: Flarient
+    given-names: Team
+type: software
+keywords:
+  - jupyter
+  - notebooks
+  - space-weather
+  - research
+  - reproducible
+license: MIT
+repository-code: "https://github.com/flarientglobal/flarient-notebooks"
+url: "https://flarient.com"
+version: "1.0.0"
+date-released: "2026-08-19"
